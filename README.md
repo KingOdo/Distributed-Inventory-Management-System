@@ -1,4 +1,4 @@
-*Distributed Inventory Management with Personalized Verification *
+#Distributed Inventory Management with Personalized Verification 
 
 This project implements a client-server system for managing product inventory data. The server 
 hosts multiple inventory files (one per category). Clients connect from a different PC to view 
