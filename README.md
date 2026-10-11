@@ -95,17 +95,4 @@ Technical Requirements
  Thread pool (ExecutorService) for the merging/analysis task. 
  Input/Output streams (object or text-based) for data transfer. 
  Exception handling for all network/file errors. 
- Clean, documented code (comments explaining the personalization steps). 
-Deliverables & Demo 
-1. Source code (all .java files) + the generated inventory files (.txt). 
-2. Report explaining: 
-o How your port number is derived from your student ID. 
-o How you seeded the inventory files. 
-o How the verification hash is computed. 
-o A screenshot of the server log showing the personalized startup message. 
-3. Live demo (in lab on May 19 – May 22, 2026): 
-o Show server and client running on two different PCs.  
-o STUDENTS MAY PRESENT IN PAIRS. 
-o Demonstrate file list retrieval, file display, and overview. 
-o Activate the “Verify” button and show the matching hash. 
-o Show the special record containing your student ID.
+
